@@ -1,0 +1,54 @@
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.deps.json
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.json
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.dev.json
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.dll
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.pdb
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csprojResolveAssemblyReference.cache
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csproj.CoreCompileInputs.cache
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfoInputs.cache
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfo.cs
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.dll
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.deps.json
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.json
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.dev.json
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.dll
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csprojResolveAssemblyReference.cache
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfoInputs.cache
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfo.cs
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.dll
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.deps.json
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.json
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.dev.json
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.genruntimeconfig.cache
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.deps.json
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.json
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.dev.json
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.dll
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfoInputs.cache
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfo.cs
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.dll
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.genruntimeconfig.cache
+C:\Projetos-Jonas\GIT\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csproj.AssemblyReference.cache
