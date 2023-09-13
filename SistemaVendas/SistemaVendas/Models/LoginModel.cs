@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Data;
 using SistemaVendas.Uteis;
 using System.ComponentModel.DataAnnotations;
+using MySql.Data.MySqlClient;
 
 namespace SistemaVendas.Models
 {
@@ -22,14 +23,18 @@ namespace SistemaVendas.Models
         [Required(ErrorMessage = "Informe a senha do usuário!")]
         public string Senha { get; set; }
 
-        //Existe um problema grave de segurança com essa abordagem => SQL Injection
-        //Vamos depois criar um método mais adequado
+        
         public bool ValidarLogin()
         {
-            string sql = $"SELECT ID, NOME FROM VENDEDOR WHERE EMAIL='{Email}' AND SENHA='{Senha}'";
+            string sql = $"SELECT ID, NOME FROM VENDEDOR WHERE EMAIL=@email AND SENHA=@senha";
+            MySqlCommand command = new MySqlCommand();
+            command.CommandText = sql;
+            command.Parameters.AddWithValue("email", Email);
+            command.Parameters.AddWithValue("senha", Senha);
 
             DAL objDAL = new DAL();
-            DataTable dt = objDAL.RetDataTable(sql);
+
+            DataTable dt = objDAL.RetDataTable(command);
             if (dt.Rows.Count == 1)
             {
                 Id = dt.Rows[0]["ID"].ToString();

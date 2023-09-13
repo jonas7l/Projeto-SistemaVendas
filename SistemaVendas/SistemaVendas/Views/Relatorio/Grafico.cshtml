@@ -1,0 +1,82 @@
+﻿<h2>Gráfico de Venda por Produto</h2>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"></script>
+
+
+<div id="convas-holder" style="width:40%">
+    <canvas id="chart-area"></canvas>
+</div>
+
+
+<script>
+
+    function valueOrDefault(value, defaultvalue ) {
+        return value ? value : defaultvalue;
+    }
+
+    function numbers(config) {
+        var cfg = config || {};
+        var min = valueOrDefault(cfg.min, 0);
+        var max = valueOrDefault(cfg.max, 100);
+        var from = valueOrDefault(cfg.from, []);
+        var count = valueOrDefault(cfg.count, 8);
+        var decimals = valueOrDefault(cfg.decimals, 8);
+        var continuity = valueOrDefault(cfg.continuity, 1);
+        var dfactor = Math.pow(10, decimals) || 0;
+        var data = [];
+        var i, value;
+
+        for (i = 0; i < count; ++i) {
+
+            data.push(10);
+        }
+
+        return data;
+    }
+
+    const CHART_COLORS = {
+        red: 'rgb(255, 99, 132)',
+        orange: 'rgb(255, 159, 64)',
+        yellow: 'rgb(255, 205, 86)',
+        green: 'rgb(75, 192, 192)',
+        blue: 'rgb(54, 162, 235)',
+        purple: 'rgb(153, 102, 255)',
+        grey: 'rgb(201, 203, 207)'
+    };
+
+
+    const DATA_COUNT = 5;
+    const NUMBER_CFG = { count: DATA_COUNT, min: 0, max: 100 };
+
+    const data = {
+        labels: [@Html.Raw(ViewBag.Labels)],
+        datasets: [
+            {
+                label: 'Dataset 1',
+                data: [@Html.Raw(ViewBag.Valores)],
+                backgroundColor: [@Html.Raw(ViewBag.Cores)],
+            }
+        ]
+    };
+    const config = {
+        type: 'pie',
+        data: data,
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'top',
+                },
+                title: {
+                    display: true,
+                    text: 'Chart.js Pie Chart'
+                }
+            }
+        },
+    };
+
+    window.onload = function () {
+        var ctx = document.getElementById('chart-area').getContext('2d');
+        window.myPie = new Chart(ctx, config);
+    };
+</script>

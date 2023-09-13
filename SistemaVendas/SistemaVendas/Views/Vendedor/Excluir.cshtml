@@ -1,0 +1,19 @@
+﻿@model VendedorModel
+
+<h2>Excluir Vendedor</h2>
+
+<h3>Deseja realmente excluir o vendedor <b>@Model.Nome</b>?</h3>
+<button type="button" class="btn btn-danger" onclick="Nao()">Não</button>
+<button type="button" class="btn btn-success" onclick="Sim()">Sim</button>
+
+<script>
+    function Sim()
+    {
+        window.location.href = '../../Vendedor/ExcluirVendedor/' + @Model.Id;
+    }
+    function Nao()
+    {
+        window.location.href = '../../Vendedor/Index';
+    }
+
+</script>

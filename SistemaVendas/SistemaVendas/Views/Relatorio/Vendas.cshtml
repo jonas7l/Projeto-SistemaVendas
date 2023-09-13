@@ -1,0 +1,46 @@
+﻿@model ReletorioModel
+
+<h2>Vendas por Periodo</h2>
+
+
+<form asp-controller="Relatorio" asp-action="Vendas">   
+    <div class="form-group">
+        <label>Periodo</label> 
+        <input asp-for="DataInicio" type="date" class="form-control" />
+    </div>
+    <div class="form-group">        
+        <input asp-for="DataFim" type="date" class="form-control" />        
+    </div>   
+    <button type="submit" class="btn btn-block btn-success">Consultar</button>
+</form>
+
+<br />
+<table class="table table-bordered">
+    <thead>
+        <tr>            
+            <th>Id</th>
+            <th>Data</th>
+            <th>Vendedor</th>
+            <th>Cliente</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @{
+
+            
+                foreach (var item in (List<VendaModel>)ViewBag.ListarVendas)
+                {
+                    <tr>                       
+                        <td>@item.Id</td>
+                        <td>@item.Data</td>
+                        <td>@item.Vendedor_Id</td>
+                        <td>@item.Cliente_Id</td>
+                        <td>R$ @item.Total</td>
+                    </tr>
+                }
+            
+        }
+    </tbody>
+</table>
